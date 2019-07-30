@@ -13,7 +13,7 @@ positions from a list where the index of the list corresponds to the seed positi
 e.g. index 0 contains the number of dead units from running the algorithm with seed 0.
 
 ---
-To see a more detailed version of the process, open the "Assignment1.ipynb" file which contains
+To see a more detailed version of the process, open the "Complete.ipynb" file which contains
 the full code including the plotting of graphs and figures. These include:
 
 1. A frequency histogram which shows the number of times each neuron has fired
